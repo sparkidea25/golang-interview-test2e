@@ -1,0 +1,1 @@
+There is a text A which and text B, write a program that searches for a certain word in A and B. It tells us if that word exists in A or B or both or none. Write this program in Go and host on github. 
